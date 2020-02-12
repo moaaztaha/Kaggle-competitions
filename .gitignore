@@ -1,0 +1,8 @@
+**/data
+**/models
+*internalNotes.md
+*.csv
+*.pkl
+*.zip
+*.7z
+*.joblib

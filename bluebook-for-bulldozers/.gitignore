@@ -1,0 +1,4 @@
+*.csv
+models/
+data/
+submission.csv
